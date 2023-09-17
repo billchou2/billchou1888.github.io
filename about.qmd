@@ -2,4 +2,72 @@
 title: "About"
 ---
 
-About this site
+## Education
+
+### **Master of Data Science**
+
+**University of British Columbia**\
+September 2023 to June 2024\
+Relevant Course: Algorithms and Data Structures, Databases and Data Retrieva, Machine Learning, Natural Language Processing.
+
+### **Bachelor of Economics**
+
+**Beijing University of Posts and Telecommunications**
+
+September 2017 to June 2021\
+Relevant Coursework: Microeconomics, Macroeconomics, Finance, Econometrics, Linear Algebra, Advanced Mathematics .
+
+------------------------------------------------------------------------
+
+## Work Experience
+
+### **Data Analyst Intern**
+
+*Microsoft* - San Francisco, CA\
+September 2021 - October 2022\
+- Lead developer for the XYZ project, improved efficiency by 20%. - Collaborated with cross-functional teams to define, design, and ship new features. - Continuously discovered, evaluated, and implemented new technologies to maximize development efficiency.
+
+### **Data Analyst Assistant Intern**
+
+*Google* - Shanghai, China\
+Feburary 2021 - August 2021\
+- Assisted in the development of the ABC web application, which increased user engagement by 30%. - Fixed 50+ bugs and reduced database load by optimizing queries. - Collaborated with the UX/UI team to improve website design and functionality.
+
+------------------------------------------------------------------------
+
+## Skills
+
+-   **Languages:** Python, Java, C++, JavaScript
+-   **Web Development:** HTML, CSS, React, Node.js
+-   **Databases:** MySQL, MongoDB, PostgreSQL
+-   **Tools:** Git, Docker, Kubernetes, Jenkins
+-   **Cloud Platforms:** AWS, Google Cloud, Azure
+-   **Frameworks:** Django, Express.js, Spring Boot
+
+------------------------------------------------------------------------
+
+## Certifications
+
+-   AWS Certified Solutions Architect -- Associate
+-   Oracle Certified Associate
+
+------------------------------------------------------------------------
+
+## Personal Projects
+
+### **Machine Learning Model for Text Classification**
+
+-   Developed a text classification model using Python.
+-   Achieved 90% accuracy on the test dataset.
+
+------------------------------------------------------------------------
+
+## Hobbies
+
+-   Playing Sccoer
+
+-   Hiking
+
+-   Travel and photography
+
+------------------------------------------------------------------------

@@ -4,7 +4,49 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "University of British Columbia\nSeptember 2023 to June 2024\nRelevant Course: Algorithms and Data Structures, Databases and Data Retrieva, Machine Learning, Natural Language Processing.\n\n\n\nBeijing University of Posts and Telecommunications\nSeptember 2017 to June 2021\nRelevant Coursework: Microeconomics, Macroeconomics, Finance, Econometrics, Linear Algebra, Advanced Mathematics ."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "University of British Columbia\nSeptember 2023 to June 2024\nRelevant Course: Algorithms and Data Structures, Databases and Data Retrieva, Machine Learning, Natural Language Processing.\n\n\n\nBeijing University of Posts and Telecommunications\nSeptember 2017 to June 2021\nRelevant Coursework: Microeconomics, Macroeconomics, Finance, Econometrics, Linear Algebra, Advanced Mathematics ."
+  },
+  {
+    "objectID": "about.html#work-experience",
+    "href": "about.html#work-experience",
+    "title": "About",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nData Analyst Intern\nMicrosoft - San Francisco, CA\nSeptember 2021 - October 2022\n- Lead developer for the XYZ project, improved efficiency by 20%. - Collaborated with cross-functional teams to define, design, and ship new features. - Continuously discovered, evaluated, and implemented new technologies to maximize development efficiency.\n\n\nData Analyst Assistant Intern\nGoogle - Shanghai, China\nFeburary 2021 - August 2021\n- Assisted in the development of the ABC web application, which increased user engagement by 30%. - Fixed 50+ bugs and reduced database load by optimizing queries. - Collaborated with the UX/UI team to improve website design and functionality."
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "Skills",
+    "text": "Skills\n\nLanguages: Python, Java, C++, JavaScript\nWeb Development: HTML, CSS, React, Node.js\nDatabases: MySQL, MongoDB, PostgreSQL\nTools: Git, Docker, Kubernetes, Jenkins\nCloud Platforms: AWS, Google Cloud, Azure\nFrameworks: Django, Express.js, Spring Boot"
+  },
+  {
+    "objectID": "about.html#certifications",
+    "href": "about.html#certifications",
+    "title": "About",
+    "section": "Certifications",
+    "text": "Certifications\n\nAWS Certified Solutions Architect – Associate\nOracle Certified Associate"
+  },
+  {
+    "objectID": "about.html#personal-projects",
+    "href": "about.html#personal-projects",
+    "title": "About",
+    "section": "Personal Projects",
+    "text": "Personal Projects\n\nMachine Learning Model for Text Classification\n\nDeveloped a text classification model using Python.\nAchieved 90% accuracy on the test dataset."
+  },
+  {
+    "objectID": "about.html#hobbies",
+    "href": "about.html#hobbies",
+    "title": "About",
+    "section": "Hobbies",
+    "text": "Hobbies\n\nPlaying Sccoer\nHiking\nTravel and photography"
   },
   {
     "objectID": "index.html",
